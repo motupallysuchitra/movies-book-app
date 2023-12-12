@@ -1,0 +1,58 @@
+
+
+.boletonav{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    text-decoration: none;
+    font-size: 30px;
+
+}
+
+.tob{
+    color: white;
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+}
+
+.btn-outline-success {
+    color: white !important;
+ 
+
+}
+.btn-outline-success:hover{
+    
+    background-color:  #df1827!important;;
+}
+
+
+
+
+.navbar-light .navbar-nav .show > .nav-link, .navbar-light .navbar-nav .nav-link.active {
+    color: white !important;
+    font-size: larger !important;
+}
+.navbar-light .navbar-nav .show > .nav-link, .navbar-light .navbar-nav .nav-link.active:hover{
+    color: rgb(0, 107, 128) !important;
+
+}
+
+.container-fluid{
+    gap: 10px !important;
+}
+
+.d-flex {
+    display: flex !important;
+    justify-content: center !important;
+    justify-content: space-around;
+    gap: 5px;
+}
+.movie-image{
+    border-radius: 50%;
+    background: transparent;
+}
+
+
+  

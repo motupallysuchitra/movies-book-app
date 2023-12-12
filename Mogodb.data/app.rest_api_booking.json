@@ -1,0 +1,610 @@
+[{
+  "_id": {
+    "$oid": "65565675bf3529f5aeccf05d"
+  },
+  "booking_id": 1,
+  "user_id": 3,
+  "movie_id": 5,
+  "theater_id": 6,
+  "total_cost": 300
+},
+{
+  "_id": {
+    "$oid": "655656febf3529f5aeccf062"
+  },
+  "booking_id": 2,
+  "user_id": 3,
+  "movie_id": 9,
+  "theater_id": 14,
+  "total_cost": 400
+},
+{
+  "_id": {
+    "$oid": "655658d15211dded8b95b88b"
+  },
+  "booking_id": 3,
+  "user_id": 3,
+  "movie_id": 5,
+  "theater_id": 6,
+  "total_cost": 250
+},
+{
+  "_id": {
+    "$oid": "6575f8aac29492953cb70194"
+  },
+  "booking_id": 4,
+  "user_id": 4,
+  "movie_id": 5,
+  "theater_id": 6,
+  "total_cost": 250
+},
+{
+  "_id": {
+    "$oid": "6575fa08e4b2ba9c85fb1b1a"
+  },
+  "booking_id": 5,
+  "user_id": 4,
+  "movie_id": 17,
+  "theater_id": 16,
+  "total_cost": 250
+},
+{
+  "_id": {
+    "$oid": "6575fb86e4b2ba9c85fb1b1d"
+  },
+  "booking_id": 6,
+  "user_id": 4,
+  "movie_id": 10,
+  "theater_id": 15,
+  "total_cost": 300
+},
+{
+  "_id": {
+    "$oid": "6576a0a5181a845cb7b495f9"
+  },
+  "booking_id": 7,
+  "user_id": 4,
+  "movie_id": 17,
+  "theater_id": 16,
+  "total_cost": 250
+},
+{
+  "_id": {
+    "$oid": "6576a0a7181a845cb7b495fc"
+  },
+  "booking_id": 8,
+  "user_id": 4,
+  "movie_id": 17,
+  "theater_id": 16,
+  "total_cost": 250
+},
+{
+  "_id": {
+    "$oid": "6576a616181a845cb7b49600"
+  },
+  "booking_id": 9,
+  "user_id": 4,
+  "movie_id": 10,
+  "theater_id": 15,
+  "total_cost": 150
+},
+{
+  "_id": {
+    "$oid": "6576a617181a845cb7b49602"
+  },
+  "booking_id": 10,
+  "user_id": 4,
+  "movie_id": 10,
+  "theater_id": 15,
+  "total_cost": 150
+},
+{
+  "_id": {
+    "$oid": "6576a67f181a845cb7b49605"
+  },
+  "booking_id": 11,
+  "user_id": 4,
+  "movie_id": 10,
+  "theater_id": 15,
+  "total_cost": 250
+},
+{
+  "_id": {
+    "$oid": "6576a681181a845cb7b49609"
+  },
+  "booking_id": 12,
+  "user_id": 4,
+  "movie_id": 10,
+  "theater_id": 15,
+  "total_cost": 250
+},
+{
+  "_id": {
+    "$oid": "6576a70a181a845cb7b4960e"
+  },
+  "booking_id": 13,
+  "user_id": 4,
+  "movie_id": 10,
+  "theater_id": 15,
+  "total_cost": 300
+},
+{
+  "_id": {
+    "$oid": "6576aff3181a845cb7b49611"
+  },
+  "booking_id": 14,
+  "user_id": 4,
+  "movie_id": 10,
+  "theater_id": 15,
+  "total_cost": 0
+},
+{
+  "_id": {
+    "$oid": "6576aff7181a845cb7b49612"
+  },
+  "booking_id": 15,
+  "user_id": 4,
+  "movie_id": 10,
+  "theater_id": 15,
+  "total_cost": 250
+},
+{
+  "_id": {
+    "$oid": "6576c2a3181a845cb7b49616"
+  },
+  "booking_id": 16,
+  "user_id": 4,
+  "movie_id": 10,
+  "theater_id": 15,
+  "total_cost": 350
+},
+{
+  "_id": {
+    "$oid": "6576c2a5181a845cb7b49618"
+  },
+  "booking_id": 17,
+  "user_id": 4,
+  "movie_id": 10,
+  "theater_id": 15,
+  "total_cost": 350
+},
+{
+  "_id": {
+    "$oid": "6576c4bc181a845cb7b49621"
+  },
+  "booking_id": 18,
+  "user_id": 4,
+  "movie_id": 5,
+  "theater_id": 6,
+  "total_cost": 1500
+},
+{
+  "_id": {
+    "$oid": "6576c571181a845cb7b4962b"
+  },
+  "booking_id": 19,
+  "user_id": 4,
+  "movie_id": 17,
+  "theater_id": 16,
+  "total_cost": 200
+},
+{
+  "_id": {
+    "$oid": "6576c573181a845cb7b4962e"
+  },
+  "booking_id": 20,
+  "user_id": 4,
+  "movie_id": 17,
+  "theater_id": 16,
+  "total_cost": 200
+},
+{
+  "_id": {
+    "$oid": "6576c5a2181a845cb7b49633"
+  },
+  "booking_id": 21,
+  "user_id": 4,
+  "movie_id": 7,
+  "theater_id": 9,
+  "total_cost": 500
+},
+{
+  "_id": {
+    "$oid": "6576c5a4181a845cb7b49638"
+  },
+  "booking_id": 22,
+  "user_id": 4,
+  "movie_id": 7,
+  "theater_id": 9,
+  "total_cost": 500
+},
+{
+  "_id": {
+    "$oid": "6576c5a4181a845cb7b4963d"
+  },
+  "booking_id": 23,
+  "user_id": 4,
+  "movie_id": 7,
+  "theater_id": 9,
+  "total_cost": 500
+},
+{
+  "_id": {
+    "$oid": "6576c615181a845cb7b49645"
+  },
+  "booking_id": 24,
+  "user_id": 4,
+  "movie_id": 5,
+  "theater_id": 6,
+  "total_cost": 350
+},
+{
+  "_id": {
+    "$oid": "6576c616181a845cb7b49649"
+  },
+  "booking_id": 25,
+  "user_id": 4,
+  "movie_id": 5,
+  "theater_id": 6,
+  "total_cost": 350
+},
+{
+  "_id": {
+    "$oid": "6576c6fe181a845cb7b4964e"
+  },
+  "booking_id": 26,
+  "user_id": 4,
+  "movie_id": 10,
+  "theater_id": 15,
+  "total_cost": 150
+},
+{
+  "_id": {
+    "$oid": "6576c700181a845cb7b49650"
+  },
+  "booking_id": 27,
+  "user_id": 4,
+  "movie_id": 10,
+  "theater_id": 15,
+  "total_cost": 150
+},
+{
+  "_id": {
+    "$oid": "6576c71a181a845cb7b49653"
+  },
+  "booking_id": 28,
+  "user_id": 4,
+  "movie_id": 17,
+  "theater_id": 16,
+  "total_cost": 150
+},
+{
+  "_id": {
+    "$oid": "6576c71a181a845cb7b49654"
+  },
+  "booking_id": 29,
+  "user_id": 4,
+  "movie_id": 17,
+  "theater_id": 16,
+  "total_cost": 150
+},
+{
+  "_id": {
+    "$oid": "6576c743181a845cb7b4965a"
+  },
+  "booking_id": 30,
+  "user_id": 4,
+  "movie_id": 10,
+  "theater_id": 15,
+  "total_cost": 200
+},
+{
+  "_id": {
+    "$oid": "6576c743181a845cb7b4965e"
+  },
+  "booking_id": 31,
+  "user_id": 4,
+  "movie_id": 10,
+  "theater_id": 15,
+  "total_cost": 200
+},
+{
+  "_id": {
+    "$oid": "6576ccfa181a845cb7b49663"
+  },
+  "booking_id": 32,
+  "user_id": 4,
+  "movie_id": 10,
+  "theater_id": 15,
+  "total_cost": 150
+},
+{
+  "_id": {
+    "$oid": "6576ccfa181a845cb7b49665"
+  },
+  "booking_id": 33,
+  "user_id": 4,
+  "movie_id": 10,
+  "theater_id": 15,
+  "total_cost": 150
+},
+{
+  "_id": {
+    "$oid": "6576cdd3181a845cb7b49668"
+  },
+  "booking_id": 34,
+  "user_id": 4,
+  "movie_id": 5,
+  "theater_id": 6,
+  "total_cost": 150
+},
+{
+  "_id": {
+    "$oid": "6576cdd4181a845cb7b4966c"
+  },
+  "booking_id": 35,
+  "user_id": 4,
+  "movie_id": 5,
+  "theater_id": 6,
+  "total_cost": 150
+},
+{
+  "_id": {
+    "$oid": "6576ceff181a845cb7b49671"
+  },
+  "booking_id": 36,
+  "user_id": 4,
+  "movie_id": 10,
+  "theater_id": 15,
+  "total_cost": 350
+},
+{
+  "_id": {
+    "$oid": "6576cf00181a845cb7b49673"
+  },
+  "booking_id": 37,
+  "user_id": 4,
+  "movie_id": 10,
+  "theater_id": 15,
+  "total_cost": 350
+},
+{
+  "_id": {
+    "$oid": "6576cfc7181a845cb7b49676"
+  },
+  "booking_id": 38,
+  "user_id": 4,
+  "movie_id": 10,
+  "theater_id": 15,
+  "total_cost": 300
+},
+{
+  "_id": {
+    "$oid": "6576cfc9181a845cb7b49678"
+  },
+  "booking_id": 39,
+  "user_id": 4,
+  "movie_id": 10,
+  "theater_id": 15,
+  "total_cost": 300
+},
+{
+  "_id": {
+    "$oid": "6576d01b181a845cb7b4967b"
+  },
+  "booking_id": 40,
+  "user_id": 4,
+  "movie_id": 7,
+  "theater_id": 9,
+  "total_cost": 150
+},
+{
+  "_id": {
+    "$oid": "6576d01d181a845cb7b4967e"
+  },
+  "booking_id": 41,
+  "user_id": 4,
+  "movie_id": 7,
+  "theater_id": 9,
+  "total_cost": 150
+},
+{
+  "_id": {
+    "$oid": "6576d249181a845cb7b49682"
+  },
+  "booking_id": 42,
+  "user_id": 4,
+  "movie_id": 5,
+  "theater_id": 6,
+  "total_cost": 150
+},
+{
+  "_id": {
+    "$oid": "6576d4de181a845cb7b49687"
+  },
+  "booking_id": 43,
+  "user_id": 4,
+  "movie_id": 5,
+  "theater_id": 6,
+  "total_cost": 200
+},
+{
+  "_id": {
+    "$oid": "6576d55a181a845cb7b4968a"
+  },
+  "booking_id": 44,
+  "user_id": 4,
+  "movie_id": 10,
+  "theater_id": 15,
+  "total_cost": 400
+},
+{
+  "_id": {
+    "$oid": "6576d55c181a845cb7b4968c"
+  },
+  "booking_id": 45,
+  "user_id": 4,
+  "movie_id": 10,
+  "theater_id": 15,
+  "total_cost": 400
+},
+{
+  "_id": {
+    "$oid": "6576dcec181a845cb7b4968f"
+  },
+  "booking_id": 46,
+  "user_id": 4,
+  "movie_id": 9,
+  "theater_id": 13,
+  "total_cost": 150
+},
+{
+  "_id": {
+    "$oid": "6576ddfa181a845cb7b49695"
+  },
+  "booking_id": 47,
+  "user_id": 4,
+  "movie_id": 10,
+  "theater_id": 15,
+  "total_cost": 200
+},
+{
+  "_id": {
+    "$oid": "6576ddfb181a845cb7b49698"
+  },
+  "booking_id": 48,
+  "user_id": 4,
+  "movie_id": 10,
+  "theater_id": 15,
+  "total_cost": 200
+},
+{
+  "_id": {
+    "$oid": "6576de61181a845cb7b4969d"
+  },
+  "booking_id": 49,
+  "user_id": 4,
+  "movie_id": 17,
+  "theater_id": 16,
+  "total_cost": 150
+},
+{
+  "_id": {
+    "$oid": "6576de63181a845cb7b496a1"
+  },
+  "booking_id": 50,
+  "user_id": 4,
+  "movie_id": 17,
+  "theater_id": 16,
+  "total_cost": 150
+},
+{
+  "_id": {
+    "$oid": "6576defa181a845cb7b496a6"
+  },
+  "booking_id": 51,
+  "user_id": 4,
+  "movie_id": 10,
+  "theater_id": 15,
+  "total_cost": 300
+},
+{
+  "_id": {
+    "$oid": "6576df8d181a845cb7b496aa"
+  },
+  "booking_id": 52,
+  "user_id": 4,
+  "movie_id": 5,
+  "theater_id": 6,
+  "total_cost": 400
+},
+{
+  "_id": {
+    "$oid": "6576df8e181a845cb7b496ad"
+  },
+  "booking_id": 53,
+  "user_id": 4,
+  "movie_id": 5,
+  "theater_id": 6,
+  "total_cost": 400
+},
+{
+  "_id": {
+    "$oid": "6576e00e181a845cb7b496b1"
+  },
+  "booking_id": 54,
+  "user_id": 4,
+  "movie_id": 5,
+  "theater_id": 6,
+  "total_cost": 350
+},
+{
+  "_id": {
+    "$oid": "6576e156181a845cb7b496b4"
+  },
+  "booking_id": 55,
+  "user_id": 4,
+  "movie_id": 17,
+  "theater_id": 16,
+  "total_cost": 150
+},
+{
+  "_id": {
+    "$oid": "6576e157181a845cb7b496b8"
+  },
+  "booking_id": 56,
+  "user_id": 4,
+  "movie_id": 17,
+  "theater_id": 16,
+  "total_cost": 150
+},
+{
+  "_id": {
+    "$oid": "6576e158181a845cb7b496bc"
+  },
+  "booking_id": 57,
+  "user_id": 4,
+  "movie_id": 17,
+  "theater_id": 16,
+  "total_cost": 150
+},
+{
+  "_id": {
+    "$oid": "6576e28b181a845cb7b496c1"
+  },
+  "booking_id": 58,
+  "user_id": 4,
+  "movie_id": 10,
+  "theater_id": 15,
+  "total_cost": 150
+},
+{
+  "_id": {
+    "$oid": "6576e28c181a845cb7b496c3"
+  },
+  "booking_id": 59,
+  "user_id": 4,
+  "movie_id": 10,
+  "theater_id": 15,
+  "total_cost": 150
+},
+{
+  "_id": {
+    "$oid": "6576e2a8181a845cb7b496c6"
+  },
+  "booking_id": 60,
+  "user_id": 4,
+  "movie_id": 6,
+  "theater_id": 7,
+  "total_cost": 150
+},
+{
+  "_id": {
+    "$oid": "6576e2a9181a845cb7b496cb"
+  },
+  "booking_id": 61,
+  "user_id": 4,
+  "movie_id": 6,
+  "theater_id": 7,
+  "total_cost": 150
+}]
